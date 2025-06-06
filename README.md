@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1>Hi, I'm Caleb! <br/><a href="https://github.com/RiversCa">Home-'Labber'</a> and <a href="https://www.linkedin.com/in/crrivers/">Cybersecurity Professional</a>
 
-<!--
-**RiversCa/RiversCa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>🪛 I’m Currently Working On ...</h2>
 
-Here are some ideas to get you started:
+- <b>PiHole on Docker</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📖 I’m Currently Studying ...</h2>
+
+- <b>CompTIA Network+</b>
+  - For WGU B.S.
+- <b>CISSP</b>
+  - To become a more well-rounded security leader
+
+<h2>🔑 Security Projects:</h2>
+
+- <b>Title</b>
+  - [Link](www.link.com)
+ 
+- <b>Title</b>
+  - [Link](www.link.com)
+ 
+<h2>👨‍💻 Software Projects:</h2>
+
+- <b>Title</b>
+  - [Link](www.link.com)
+ 
+- <b>Title</b>
+  - [Link](www.link.com)
+
+<h2>🛫 Planned Projects:</h2>
+
+- <b>Finish setting up virtual environment</b>
+- <b>Incorporate Windows Server into lab environment</b>
+
+<h2>🎓 Certifications and Education</h2>
+
+- <b>CompTIA Security+</b>
+- <b>CompTIA A+</b>
+- <b>WGU B.S. Cybersecurity and IA</b> - expected graduation Dec. 2026
+
+<h2>💾 My Home-Lab Setup:</h2>
+
+- <b>Title</b>
+
+
