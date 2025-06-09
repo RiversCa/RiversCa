@@ -1,4 +1,4 @@
-<h1>Hi, I'm Caleb! <br/><a href="https://github.com/RiversCa">Home-'Labber'</a> and <a href="https://www.linkedin.com/in/crrivers/">Cybersecurity Professional</a>
+<h1>Hi, I'm Caleb! <br/><a href="https://www.linkedin.com/in/crrivers/">Cybersecurity Professional</a> and <a href="https://github.com/RiversCa">Home-'Labber'</a> 
 
 <h2>🪛 I’m Currently Working On ...</h2>
 
